@@ -1,1 +1,7 @@
-{"firstName":"jacck","lastName":"gaandu","phone":"1236547898","hashedPassword":"5edbcbd9c71ec07839f3b0dadc002a4c6c451d805e190d48808d3d7bf9070535","tosAgreement":true}
+{
+  "firstName": "jacck",
+  "lastName": "gaandu",
+  "phone": "1236547898",
+  "hashedPassword": "5edbcbd9c71ec07839f3b0dadc002a4c6c451d805e190d48808d3d7bf9070535",
+  "tosAgreement": true
+}
