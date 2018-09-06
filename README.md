@@ -5,8 +5,9 @@ pingdom-alternative
 Start the app
   node index.js
   
-Environment changes(Powershell)
-  --Windows
+Environment changes
+  --Windows(Powershell)
+  
     1. DEBUG
         command=    $env:NODE_DEBUG='workers';node index.js
         
