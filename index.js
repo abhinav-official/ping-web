@@ -24,7 +24,7 @@ app.init = function(callback) {
   }, 50);
 };
 
-// Self invoking only if equired directly
+// Self invoking only if required directly
 if (require.main === module) {
   app.init(function() {});
 }
