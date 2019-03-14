@@ -1,0 +1,23 @@
+{
+  "name": "ping-status",
+  "version": "1.0.0",
+  "description": "Check the status of webapp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav-official/ping-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav-official/ping-web/issues"
+  },
+  "homepage": "https://github.com/abhinav-official/ping-web#readme"
+}
